@@ -13,4 +13,8 @@ This project is a simple and visually appealing calculator built using HTML, CSS
 - **JavaScript :** Implements the functionality and logic of the calculator.
 
   ## Installation
+
+  1. Clone the repository or download the project files.
+   https://github.com/Drushti008/Calculator.git
+  2. Open the index.html file in any modern web browser.
   

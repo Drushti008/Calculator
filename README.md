@@ -23,8 +23,19 @@ This project is a simple and visually appealing calculator built using HTML, CSS
 
   
 ## Screenshots
+
 ### Calculator Interface
 ![ss1](Screenshots/ss1.png)
+
+### Equation
+![ss2](Screenshots/ss2.png)
+
+### Result
+![ss3](Screenshots/ss3.png)
+
+
+
+
 
 
   

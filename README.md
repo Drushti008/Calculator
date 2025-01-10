@@ -33,6 +33,14 @@ This project is a simple and visually appealing calculator built using HTML, CSS
 ### Result
 ![ss3](Screenshots/ss3.png)
 
+## Contributing
+
+If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request. All contributions are welcome!
+
+## License
+
+This project is licensed under the MIT License.
+
 
 
 

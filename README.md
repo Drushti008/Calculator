@@ -19,7 +19,7 @@ This project is a simple and visually appealing calculator built using HTML, CSS
    ```bash
    git clone https://github.com/Drushti008/Calculator.git
 
-  
+2. Open the index.html file in any modern web browser.  
 
 
   

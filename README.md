@@ -22,12 +22,18 @@ This project is a simple and visually appealing calculator built using HTML, CSS
 2. Open the index.html file in any modern web browser.
 
   
-## File Structure
+## Usage
 
-project-folder/ |-- index.html # HTML structure of the calculator |-- style.css # CSS file for styling the calculator |-- script.js # JavaScript file containing the calculator logic
-
-Copy code
-
+1. Launch the application by opening the index.html file.
+2. Use the on-screen buttons to input numbers and operations:
+- AC: Clears all input.
+- %: Calculates the percentage.
+- * and / : Multiplication and division operations.
+- + and - : Addition and subtraction operations.
+- = : Displays the result of the calculation.
+. : Adds a decimal point.
+00 : Adds double zeros.
+3. Enjoy seamless calculations in a modern interface.
 
 
 
